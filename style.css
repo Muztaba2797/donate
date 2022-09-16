@@ -95,3 +95,15 @@ body {
   .form{
     text-align: center;
   }
+  .donatplans{
+    display: flex;
+
+  }
+.plans{
+    display:table-row;
+     background-color:darkgray;
+     margin: 20px 30px;
+     padding: 30px 40px;
+     border-radius: 5px;
+
+}
