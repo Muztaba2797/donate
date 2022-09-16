@@ -107,3 +107,16 @@ body {
      border-radius: 5px;
 
 }
+.theirlive{
+    display: flex;
+    margin: 20px 30px ;
+}
+.howto{
+    text-decoration: none;
+    margin: 5px 0px;
+    padding: 5px 30px;
+    background-image: linear-gradient(tomato,red);
+    border-radius: 5px;
+    font-size: large;
+    color: aliceblue;
+}
